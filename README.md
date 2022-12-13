@@ -12,12 +12,12 @@ testado e compilado com Ubuntu 20.04 e gcc 9.4
 1. clone o projeto:
 copie e cole o comando abaixo no seu terminal:
 ```
-git clone https://github.com/marciamart/Bitset
+git clone https://github.com/marciamart/VETORD
 ```
 2. `compile e execute` desta maneira: 
 
 ```
-cd Bitset
-gcc bitset.c -o bitset
-./bitset
+cd VETORD
+gcc vetord.c main.c -o vetor_ordenado
+./vetor_ordenado
 ```
