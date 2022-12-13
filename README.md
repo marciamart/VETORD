@@ -1,7 +1,18 @@
 # VETOR ORDENADO
 ## *Descrição:*
 Vetor ordenado estático. Os elementos do vetor são adicionados ordenadamente.  
-
+## ***Neste repositório estão:***
+### main.c
+aqui estão as funções de comparação e de impressão do vetor.  
+[main para teste] - ***ADAPTAVEL***   
+a main deve ser adaptada de acordo com as necessidades na qual o vetor ordernado será utilizado.
+### ordvetor.h
+aqui estão declaradas as funções:
+* VETORD_create
+* VETORD_add
+* VETORD_remove
+### vetord.c
+aqui estão implementadas as funções do  ordvetor.h
 ## *Tecnologias utilizadas:*
 Linguaguem C
 
